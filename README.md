@@ -74,15 +74,16 @@ Verification Output: LockedOut : False
 # 🔒 Security Best Practices Implemented
 * Enforced strict read-only configuration file permissions (chmod 0644).
 
-*Completely removed installer /setup/ directory post-installation.
+* Completely removed installer /setup/ directory post-installation.
 
-*Followed principle of least privilege for database account access (solver_admin).
+* Followed principle of least privilege for database account access (solver_admin).
 
-* **Author:** Peter Okonkwo
+  # Author:
+* Peter Okonkwo
 
-Lead Engineer & Founder, Solver Cybertech
+* Lead Engineer & Founder, Solver Cybertech
 
-LinkedIn: https://www.linkedin.com/in/peter-okonkwo-3b6610230
+* LinkedIn: https://www.linkedin.com/in/peter-okonkwo-3b6610230
 
   
   
